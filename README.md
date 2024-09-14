@@ -21,6 +21,6 @@
 I am open to work opportunities and collaborations. Feel free to reach out to me:
 
 - **Email**: [bipasha.email@example.com](mailto:bipasha.mohanty.14@gmail.com)
-- **LinkedIn**: [linkedin.com/in/bipasha](https://www.linkedin.com/in/contactbipasha)
+- **LinkedIn**: [linkedin.com/in/bipasha](https://www.linkedin.com/in/contactbipasha) 
 
 Looking forward to connecting with you and exploring potential projects and opportunities!
