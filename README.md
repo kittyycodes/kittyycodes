@@ -1,22 +1,26 @@
 ## 👋 Hi, I’m @kittyycodes
 
-**My name is Bipasha** and I’m a **final-year AI and Robotics student**.  
-I’m passionate about **problem-solving** and eager to engage with it **daily**. I specialize in **Machine Learning** and **Web Development**, and I enjoy working on these areas every day.
+**My name is Bipasha** and I’m a **final-year AI and Robotics student** with a passion for **Machine Learning** and **Web Development**. I am dedicated to **problem-solving** and enjoy applying my skills in **Python** and various web technologies.
 
-### 👀 Interests
-I have a keen interest in **AI** and a strong passion for the **world of technology**.  
-I am always eager to learn new things and apply them in real-world scenarios.
+### 🌟 About Me
+- I am a **Machine Learning Developer** with extensive experience in **Python**, working on innovative projects and constantly improving my skills.
+- In my free time, I engage in **Web Development**, exploring new technologies and building useful applications.
+- I am a **quick learner** with a strong aptitude for **problem-solving**, always seeking opportunities to tackle new challenges and grow.
 
-### 🌱 Currently Active
-I’m currently diving deep into **Deep Learning** and preparing for college placements. I am actively **practicing on LeetCode** to sharpen my problem-solving skills and knowledge.
+### 🚀 Current Focus
+- **Deep Learning**: Diving deep into advanced machine learning techniques and models.
+- **LeetCode**: Actively practicing coding challenges to refine my problem-solving skills and prepare for upcoming opportunities.
+- **Web Development**: Building and maintaining web applications, honing my skills in this area during my spare time.
 
-### 💻 Passion
-I thrive on **problem-solving** through various programming languages and frameworks. My enthusiasm for **Machine Learning** and **Web Development** keeps me engaged every day.
+### 💻 Skills
+- **Python**: Expertise in developing and deploying machine learning models.
+- **Machine Learning**: Working with various ML algorithms and frameworks.
+- **Web Development**: Proficient in creating and managing web projects.
 
-### 🚀 Open to Opportunities
-I’m a **keen learner** and always looking for new opportunities.  
-Feel free to reach out if you're looking for someone enthusiastic to **work for you or your organization**. I'm a **constant learner** who believes in growing with every experience.
+### 📫 Contact Me
+I am open to work opportunities and collaborations. Feel free to reach out to me:
 
-Feel free to connect with me and create great projects!
-[Email](bipasha.mohanty.14@gmail.com)
-[LinkedIn](www.linkedin.com/in/contactbipasha)
+- **Email**: [bipasha.email@example.com](mailto:bipasha.email@example.com)
+- **LinkedIn**: [linkedin.com/in/bipasha](https://www.linkedin.com/in/bipasha)
+
+Looking forward to connecting with you and exploring potential projects and opportunities!
