@@ -7,18 +7,16 @@ I’m passionate about **problem-solving** and eager to engage with it **daily**
 I have a keen interest in **AI** and a strong passion for the **world of technology**.  
 I am always eager to learn new things and apply them in real-world scenarios.
 
-## 🌱 Currently Learning
+## 🌱 Currently Active
 I’m currently diving deep into **Deep Learning** and preparing for college placements. I am actively **practicing on LeetCode** to sharpen my problem-solving skills and knowledge.
 
-## 💻 Coding
+## 💻 Passion
 I thrive on **problem-solving** through various programming languages and frameworks. My enthusiasm for **Machine Learning** and **Web Development** keeps me engaged every day.
 
 ## 🚀 Open to Opportunities
 I’m a **keen learner** and always looking for new opportunities.  
-Feel free to reach out if you're looking for someone enthusiastic to **work for you or your organization**.
+Feel free to reach out if you're looking for someone enthusiastic to **work for you or your organization**. I'm a **constant learner** who believes in growing with every experience.
 
-### 💡 Fun Fact
-I'm a **constant learner** who believes in growing with every experience.
-
-Looking forward to connecting with you![Email](bipasha.mohanty.14@gmail.com)
+Feel free to connect with me and create great projects!
+[Email](bipasha.mohanty.14@gmail.com)
 [LinkedIn](www.linkedin.com/in/contactbipasha)
